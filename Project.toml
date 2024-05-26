@@ -1,14 +1,19 @@
 name = "CXSparse_jll"
 uuid = "c77e7b6a-7cf9-58ed-a396-e1da12b05d87"
-version = "5.10.1+1"
+version = "4.4.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+libblastrampoline_jll = "8e850b90-86db-534c-a0d3-1478176c7d93"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 SuiteSparse_jll = "bea87d4a-7f5b-5778-9afe-8cc45184846c"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.6"
+julia = "1.11"
+libblastrampoline_jll = "5.8.0"
+Libdl = "1"
+SuiteSparse_jll = "=7.7.0"
+Artifacts = "1"
