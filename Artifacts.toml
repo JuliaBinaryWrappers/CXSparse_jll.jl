@@ -1,151 +1,160 @@
 [[CXSparse]]
 arch = "aarch64"
-git-tree-sha1 = "c66617f632b4f55ed18585aa4f20d00b0609ae12"
+git-tree-sha1 = "6e00d16ae532ece5e52becd3f09010644dd916f4"
 os = "macos"
 
     [[CXSparse.download]]
-    sha256 = "7a7b968dd06613b251ffbad430a42c7df5c020df507d8ee6dc27667e3091f2a4"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.aarch64-apple-darwin.tar.gz"
+    sha256 = "05905c763b2c0eacb9ee53388055e517f723eaec2ef7bb1e0366bf0014028793"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.aarch64-apple-darwin.tar.gz"
 [[CXSparse]]
 arch = "aarch64"
-git-tree-sha1 = "22bc296a3859a78a12caa53fe66f961c922f549a"
+git-tree-sha1 = "9bbe9bb3dcf11f50b8a55bf0fef696f44fe4503d"
 libc = "glibc"
 os = "linux"
 
     [[CXSparse.download]]
-    sha256 = "fad4c9a740806dbf0884a776efedb0a8a09a6fd1543a8ae37c332445b87ede09"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.aarch64-linux-gnu.tar.gz"
+    sha256 = "d5d46181d5a2a0f8fc77dae0b9e5401e93ade7c58f40d72911fb91534cfdb0fd"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.aarch64-linux-gnu.tar.gz"
 [[CXSparse]]
 arch = "aarch64"
-git-tree-sha1 = "1d4dcbe438db84148a67377bbc0a0fe9d0731653"
+git-tree-sha1 = "80fc15d92fa411b5bbb3606f6b9a51ae5d3b2b42"
 libc = "musl"
 os = "linux"
 
     [[CXSparse.download]]
-    sha256 = "7fbe36646df553dece3b6a1ab6c2dbeb9b0d44738c599f818cda767eb31f7737"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.aarch64-linux-musl.tar.gz"
+    sha256 = "897d036eb37cf748614fd47429887604f5c0b71211cdc61791104c3e44e2bee4"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.aarch64-linux-musl.tar.gz"
 [[CXSparse]]
 arch = "aarch64"
-git-tree-sha1 = "910d8d4d064c0cd7c722b74abcb2fceaacd3f4d5"
+git-tree-sha1 = "08ce7db71e062a0147fafaa8a5f96296d2cc907a"
 os = "freebsd"
 
     [[CXSparse.download]]
-    sha256 = "92f545b1c1221e1a66f7f33e7effd2ad93ac2c4299ee9eef9b272b64b76bc390"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "90ad25754895ef4e38ca59606d254fad37a84dff708911b0b0d0636601d0c21b"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.aarch64-unknown-freebsd.tar.gz"
 [[CXSparse]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8bd319b1a62bacf79360ab08f06aa0fcb179a10c"
+git-tree-sha1 = "76dd71d81234a02360261200139ddb3257dd0916"
 libc = "glibc"
 os = "linux"
 
     [[CXSparse.download]]
-    sha256 = "7f353c11c105c44ca23dfd1e346e3e5eae5a10664e529f0bc54093657d4d5df0"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "0ab402d066be596dd258c07b67418ee1bc7487da3df11e32a6439cdc1a5ebb9e"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.armv6l-linux-gnueabihf.tar.gz"
 [[CXSparse]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e6a1de6e433e7ce952df502ebcb643aac0096261"
+git-tree-sha1 = "019df9bc96979026c844467bffac133e1366b00e"
 libc = "musl"
 os = "linux"
 
     [[CXSparse.download]]
-    sha256 = "5e5b319ce1767e623bf39b78784a92c4a0875a9fa4367ef5ebb454532e4f62d5"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "c832ab3ef534aa9c6d0ae2909fcfef72ca7a1e8d88754e2eef7d81d070d98f66"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.armv6l-linux-musleabihf.tar.gz"
 [[CXSparse]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8a9fb515f6ddf1c6ceee6f8628901f4ea9bf9a15"
+git-tree-sha1 = "ae7db926394b3f0f47bf9cd2094933f07416fa0d"
 libc = "glibc"
 os = "linux"
 
     [[CXSparse.download]]
-    sha256 = "049fe84589c311df0f41536e58a25fa45c13cb6f2ff9586c3e09cb82679549bb"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "55b30f3f987e6de23794aad139b0f6f51833c4466fe29dec328b23c57bcd9ec0"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.armv7l-linux-gnueabihf.tar.gz"
 [[CXSparse]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "75272e4bada2459474da548a76ea8ecbd7ca2db9"
+git-tree-sha1 = "aa72e64ade16201214fb36e11555f79ad3259ecb"
 libc = "musl"
 os = "linux"
 
     [[CXSparse.download]]
-    sha256 = "56f3a785429977edebc9acbf4bf1d6fadea98ba9baa74ecbec52154505d9443f"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "73b7a8643911824a2dc6346d4a83d45e32e491bfa480965e3c2f6b29f7a37cee"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.armv7l-linux-musleabihf.tar.gz"
 [[CXSparse]]
 arch = "i686"
-git-tree-sha1 = "c7f05b59382a872a5f372ca59d5182e9fcf4c3c2"
+git-tree-sha1 = "08ea5c065080c6f6c20ce3a6a79a548508455631"
 libc = "glibc"
 os = "linux"
 
     [[CXSparse.download]]
-    sha256 = "8ef1f7292d0f8de6334e7a91f143105551f62e6caf6d81e99f5b3aa0690b502a"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.i686-linux-gnu.tar.gz"
+    sha256 = "b32e4e5a3cd1ac8cb9c27ab14893518db722f04403428475af10e7c7baaafbca"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.i686-linux-gnu.tar.gz"
 [[CXSparse]]
 arch = "i686"
-git-tree-sha1 = "389e47e50d7cad579c2a4462e3d9ee54f47f294d"
+git-tree-sha1 = "0ea00290619502461dabd6ce6aa0b0ccfd89dd2c"
 libc = "musl"
 os = "linux"
 
     [[CXSparse.download]]
-    sha256 = "d66158a1249cab57748742558ad7552cdc8d621eeadb0e00439f96721c761415"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.i686-linux-musl.tar.gz"
+    sha256 = "02ea7ec628f9d1a08c8813c69714c01ffff668b35ef6c354136a39c7b2dc5db7"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.i686-linux-musl.tar.gz"
 [[CXSparse]]
 arch = "i686"
-git-tree-sha1 = "6a430a92a58ba0419d4f047d10f920e9c8b55313"
+git-tree-sha1 = "82548dfd6ac36a324fdcb67cd21fab206c435d54"
 os = "windows"
 
     [[CXSparse.download]]
-    sha256 = "3ac9f83b648f17c8d49df54f0f38c65f71d9655fdf6f4bb0f0ef02df005ed205"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.i686-w64-mingw32.tar.gz"
+    sha256 = "41d4ed91c71614d476aefb94e5cc7c47d109de2fb0f0dc30df912c36cf89d02f"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.i686-w64-mingw32.tar.gz"
 [[CXSparse]]
 arch = "powerpc64le"
-git-tree-sha1 = "3954a3f5f7ff3c16b12db6245e08d059f3f57a45"
+git-tree-sha1 = "8905fc2d6a2c76c6a6aee09110e3cd20031e8038"
 libc = "glibc"
 os = "linux"
 
     [[CXSparse.download]]
-    sha256 = "093988cab2b7b21192eef183a0446b83e22b7a93229120b0f25e848da9abb6d6"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "c9044c4a871eab9215290d46715cfac89391cebb5f659cca25b8bd60e653bf08"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.powerpc64le-linux-gnu.tar.gz"
+[[CXSparse]]
+arch = "riscv64"
+git-tree-sha1 = "99ba6660a76ee2fede5b536528ba5a0caec95fb1"
+libc = "glibc"
+os = "linux"
+
+    [[CXSparse.download]]
+    sha256 = "99d8d6f816afd1b804cee2b2e4beb20365373eb9c0fd128626b7e98f475133b8"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.riscv64-linux-gnu.tar.gz"
 [[CXSparse]]
 arch = "x86_64"
-git-tree-sha1 = "cdd86f756240fa7ffe8a1fc9de4c993bdeacab1f"
+git-tree-sha1 = "c5cf6c9238092a37f49bada9af58e1bab370f136"
 os = "macos"
 
     [[CXSparse.download]]
-    sha256 = "27e0b0d8a185fb064e0728340ec4d55253db67582c3e82fab92e4710198cf878"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.x86_64-apple-darwin.tar.gz"
+    sha256 = "e4d13970ed5bd22236e075ca3a7febfae6803d748eea92885673704fdf170f5e"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.x86_64-apple-darwin.tar.gz"
 [[CXSparse]]
 arch = "x86_64"
-git-tree-sha1 = "868fd5c73fbf73d31498b22e21cacc9d10a219f4"
+git-tree-sha1 = "ed596faef4190b680655b9e012e416b6d7fdd69a"
 libc = "glibc"
 os = "linux"
 
     [[CXSparse.download]]
-    sha256 = "64e16d3ef6ee117561dc46f852cf96545b47b4b9889b8549ac5849ee3d957360"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.x86_64-linux-gnu.tar.gz"
+    sha256 = "9af856aff14c8c3ae611e62ba2940ddf4a86dec3dcea7401bc4baf052b99089a"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.x86_64-linux-gnu.tar.gz"
 [[CXSparse]]
 arch = "x86_64"
-git-tree-sha1 = "72ece6857abf197a7dc02bc5b147972901847a20"
+git-tree-sha1 = "c5d76b4eb4721628fb901ed3b8cf4ce4fc1b1211"
 libc = "musl"
 os = "linux"
 
     [[CXSparse.download]]
-    sha256 = "fe503f612d1e265537e7f036b2dde59d23e793ba33cc42571003eaeadde688b2"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.x86_64-linux-musl.tar.gz"
+    sha256 = "9177ba14c180995202f0ad0000aa1ebf7dab7dd1e706cb325d0c618af5b7fe86"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.x86_64-linux-musl.tar.gz"
 [[CXSparse]]
 arch = "x86_64"
-git-tree-sha1 = "b5bea598ed582f9faee23bb582ceb8478ed27ad8"
+git-tree-sha1 = "65d81d47b20961ff0b2c0538ae2bf2745505bb81"
 os = "freebsd"
 
     [[CXSparse.download]]
-    sha256 = "e0cf95ac1c78b40d2dfaa23401e946ebf97aeb82f88ac6e83231b617d4d1b2a2"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "31119f6d3d8dd10ed28c7019300dddd24752fc1b7c7f7bf44ef69da2c9b5f8ba"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.x86_64-unknown-freebsd.tar.gz"
 [[CXSparse]]
 arch = "x86_64"
-git-tree-sha1 = "be409f5d00c6e72a77eca34adf685de164e9b287"
+git-tree-sha1 = "db1b1a9d76f8537bca92b0e2d269d9b379927859"
 os = "windows"
 
     [[CXSparse.download]]
-    sha256 = "6dfcff6789f9b8c64c0f7b1ff965e1ce6dfa89fe9ced6cafa67e0f5d583cd9e5"
-    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+0/CXSparse.v400.400.100.x86_64-w64-mingw32.tar.gz"
+    sha256 = "67bcfc470ac8ab11cf8eba96f6281fd74d72e28d183e43e124b1aa91c24d7490"
+    url = "https://github.com/JuliaBinaryWrappers/CXSparse_jll.jl/releases/download/CXSparse-v400.400.100+1/CXSparse.v400.400.100.x86_64-w64-mingw32.tar.gz"
